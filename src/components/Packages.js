@@ -2,7 +2,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import { Container } from "./Container";
 import { Button } from "./Button";
-import { Calendar, Plane, Users, Star, Check, ArrowRight } from "lucide-react";
+import { Calendar, Check, ArrowRight } from "lucide-react";
 
 const packages = [
   {
