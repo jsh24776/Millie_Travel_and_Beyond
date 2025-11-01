@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/camille_travel/static/css/main.637dbcc1.css",
-    "main.js": "/camille_travel/static/js/main.ae7c5745.js",
-    "static/js/453.866335a0.chunk.js": "/camille_travel/static/js/453.866335a0.chunk.js",
-    "index.html": "/camille_travel/index.html",
-    "main.637dbcc1.css.map": "/camille_travel/static/css/main.637dbcc1.css.map",
-    "main.ae7c5745.js.map": "/camille_travel/static/js/main.ae7c5745.js.map",
-    "453.866335a0.chunk.js.map": "/camille_travel/static/js/453.866335a0.chunk.js.map"
+    "main.css": "/Millie_Travel_and_Beyond/static/css/main.637dbcc1.css",
+    "main.js": "/Millie_Travel_and_Beyond/static/js/main.e89e8879.js",
+    "static/js/453.10f2da7e.chunk.js": "/Millie_Travel_and_Beyond/static/js/453.10f2da7e.chunk.js",
+    "index.html": "/Millie_Travel_and_Beyond/index.html",
+    "main.637dbcc1.css.map": "/Millie_Travel_and_Beyond/static/css/main.637dbcc1.css.map",
+    "main.e89e8879.js.map": "/Millie_Travel_and_Beyond/static/js/main.e89e8879.js.map",
+    "453.10f2da7e.chunk.js.map": "/Millie_Travel_and_Beyond/static/js/453.10f2da7e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.637dbcc1.css",
-    "static/js/main.ae7c5745.js"
+    "static/js/main.e89e8879.js"
   ]
 }
