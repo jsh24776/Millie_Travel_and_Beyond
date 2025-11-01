@@ -8,7 +8,7 @@ const packages = [
   {
     name: "Luxury Escape",
     price: "₱60,999",
-    duration: "10 Days",
+    duration: "8 Days",
     includes: [
       "5-Star Hotel Accommodations",
       "Private Luxury Transfers",
@@ -22,7 +22,7 @@ const packages = [
   },
   {
     name: "Adventure Seeker",
-    price: "₱32,499",
+    price: "₱22,499",
     duration: "14 Days",
     includes: [
       "Premium Hotel Stays",

@@ -15,7 +15,7 @@ const About = () => {
         At Millie Travel & Beyond Agency, we specialize in crafting personalized travel experiences that fit your dreams. 
         Whether it’s a serene island escape or a thrilling city adventure, our dedicated team ensures every detail is taken care of with passion and precision.
         Plus, with our AI Travel Assistant, you can instantly get trip suggestions, destination information,
-         and travel tips — making your planning faster, easier, and smarter.
+        and travel tips — making your planning faster, easier, and smarter.
         </p>
       </motion.div>
     </section>
