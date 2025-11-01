@@ -37,7 +37,7 @@ const Navbar = ({ darkMode, setDarkMode }) => {
           >
             <Globe className="h-8 w-8 text-primary-600 dark:text-primary-400" />
             <span className="text-2xl font-bold bg-gradient-to-r from-primary-600 to-primary-400 bg-clip-text text-transparent">
-              Camille Travel
+              Millie Travel & Beyond
             </span>
           </motion.div>
 

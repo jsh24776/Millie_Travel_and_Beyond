@@ -35,14 +35,14 @@ const Contact = () => {
     {
       icon: Phone,
       title: "Phone",
-      value: "+1 (555) 123-4567",
+      value: "+63 935 478 5472",
       link: "tel:+15551234567"
     },
     {
       icon: Mail,
       title: "Email",
-      value: "info@camilletravel.com",
-      link: "mailto:info@camilletravel.com"
+      value: "info@millietravel.com",
+      link: "mailto:info@millietravel.com"
     },
     {
       icon: MapPin,

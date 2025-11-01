@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 const testimonials = [
   {
     name: "Sophia Reyes",
-    quote: "Camille Travel made our honeymoon unforgettable! Everything was seamless.",
+  quote: "Millie Travel & Beyond made our honeymoon unforgettable! Everything was seamless.",
   },
   {
     name: "Liam Cruz",

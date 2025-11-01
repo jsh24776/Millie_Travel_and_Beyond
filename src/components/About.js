@@ -12,7 +12,7 @@ const About = () => {
       >
         <h3 className="text-3xl font-bold text-gray-900 dark:text-gray-100 mb-6">About Us</h3>
         <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
-          At Camille Travel Agency, we specialize in crafting personalized travel
+          At Millie Travel & Beyond Agency, we specialize in crafting personalized travel
           experiences that fit your dreams. Whether it’s a serene island escape
           or a thrilling city adventure, our dedicated team ensures every detail
           is taken care of with passion and precision.

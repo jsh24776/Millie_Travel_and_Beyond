@@ -17,12 +17,12 @@ function App() {
       document.documentElement.classList.remove('dark');
     }
     // persist preference
-    try { localStorage.setItem('camille:dark', JSON.stringify(darkMode)); } catch (e) {}
+    try { localStorage.setItem('millie:dark', JSON.stringify(darkMode)); } catch (e) {}
   }, [darkMode]);
 
   useEffect(() => {
     try {
-      const stored = JSON.parse(localStorage.getItem('camille:dark'));
+      const stored = JSON.parse(localStorage.getItem('millie:dark'));
       if (typeof stored === 'boolean') setDarkMode(stored);
     } catch (e) {}
   }, []);
@@ -37,7 +37,7 @@ function App() {
       <Testimonials />
       <Contact />
       <footer className="text-center py-6 border-t mt-12 text-gray-500 dark:text-gray-400 border-gray-200 dark:border-gray-800">
-        © {new Date().getFullYear()} Camille Travel Agency. All rights reserved.
+  © {new Date().getFullYear()} Millie Travel & Beyond. All rights reserved.
       </footer>
     </div>
   );
