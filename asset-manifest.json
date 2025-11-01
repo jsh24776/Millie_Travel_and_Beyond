@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/camille_travel/static/css/main.15256444.css",
-    "main.js": "/camille_travel/static/js/main.8285ed8a.js",
-    "static/js/453.866335a0.chunk.js": "/camille_travel/static/js/453.866335a0.chunk.js",
-    "index.html": "/camille_travel/index.html",
-    "main.15256444.css.map": "/camille_travel/static/css/main.15256444.css.map",
-    "main.8285ed8a.js.map": "/camille_travel/static/js/main.8285ed8a.js.map",
-    "453.866335a0.chunk.js.map": "/camille_travel/static/js/453.866335a0.chunk.js.map"
+    "main.css": "/static/css/main.15256444.css",
+    "main.js": "/static/js/main.5c95c46d.js",
+    "static/js/453.866335a0.chunk.js": "/static/js/453.866335a0.chunk.js",
+    "index.html": "/index.html",
+    "main.15256444.css.map": "/static/css/main.15256444.css.map",
+    "main.5c95c46d.js.map": "/static/js/main.5c95c46d.js.map",
+    "453.866335a0.chunk.js.map": "/static/js/453.866335a0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.15256444.css",
-    "static/js/main.8285ed8a.js"
+    "static/js/main.5c95c46d.js"
   ]
 }
