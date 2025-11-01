@@ -13,8 +13,8 @@ export const Button = ({
   
   const variants = {
     primary: "bg-gradient-to-r from-primary-600 to-primary-700 text-white hover:from-primary-700 hover:to-primary-800 focus:ring-primary-500",
-    secondary: "bg-white text-primary-700 border border-primary-500 hover:bg-primary-50 focus:ring-primary-500",
-    ghost: "bg-transparent hover:bg-primary-50 text-primary-700",
+    secondary: "bg-white text-primary-700 border border-primary-500 hover:bg-primary-50 focus:ring-primary-500 dark:bg-gray-800 dark:text-primary-300 dark:border-gray-700 dark:hover:bg-gray-800/80",
+    ghost: "bg-transparent hover:bg-primary-50 text-primary-700 dark:text-primary-300 dark:hover:bg-gray-800/50",
   };
   
   const sizes = {
